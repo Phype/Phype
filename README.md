@@ -1,1 +1,1 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=phype&show_icons=true&line_height=20&include_all_commits=true" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phype&show_icons=true&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=phype&show_icons=true&line_height=20&include_all_commits=true" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phype&show_icons=true&layout=compact&card_width=220" />
